@@ -1,0 +1,10 @@
+/**
+* Print stylesheet for yourwebsite.com
+* @version         1.0
+* @lastmodified    16.06.2016
+*/
+@media print {
+       #totalamount {
+           background-color: red !important;
+       }
+    }
